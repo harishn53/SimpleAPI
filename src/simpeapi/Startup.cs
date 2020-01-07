@@ -41,7 +41,6 @@ namespace simpeapi
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
             app.UseMvc();
         }
     }
