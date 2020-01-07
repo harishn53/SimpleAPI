@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sampleApi\\test\\simpeapi.test\\simpeapi.Test.csproj": {}
+    "C:\\sampleApi\\test\\simpeapi.Test\\simpeapi.Test.csproj": {}
   },
   "projects": {
     "C:\\sampleApi\\src\\simpeapi\\simpeapi.csproj": {
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\sampleApi\\test\\simpeapi.test\\simpeapi.Test.csproj": {
+    "C:\\sampleApi\\test\\simpeapi.Test\\simpeapi.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sampleApi\\test\\simpeapi.test\\simpeapi.Test.csproj",
+        "projectUniqueName": "C:\\sampleApi\\test\\simpeapi.Test\\simpeapi.Test.csproj",
         "projectName": "simpeapi.Test",
-        "projectPath": "C:\\sampleApi\\test\\simpeapi.test\\simpeapi.Test.csproj",
+        "projectPath": "C:\\sampleApi\\test\\simpeapi.Test\\simpeapi.Test.csproj",
         "packagesPath": "C:\\Users\\hnallagoppul\\.nuget\\packages\\",
-        "outputPath": "C:\\sampleApi\\test\\simpeapi.test\\obj\\",
+        "outputPath": "C:\\sampleApi\\test\\simpeapi.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
