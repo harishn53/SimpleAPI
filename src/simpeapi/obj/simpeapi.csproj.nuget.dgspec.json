@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sampleApi\\src\\simpeapi\\simpeapi.csproj": {}
+    "C:\\SampleApi\\src\\simpeapi\\simpeapi.csproj": {}
   },
   "projects": {
-    "C:\\sampleApi\\src\\simpeapi\\simpeapi.csproj": {
+    "C:\\SampleApi\\src\\simpeapi\\simpeapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sampleApi\\src\\simpeapi\\simpeapi.csproj",
+        "projectUniqueName": "C:\\SampleApi\\src\\simpeapi\\simpeapi.csproj",
         "projectName": "simpeapi",
-        "projectPath": "C:\\sampleApi\\src\\simpeapi\\simpeapi.csproj",
+        "projectPath": "C:\\SampleApi\\src\\simpeapi\\simpeapi.csproj",
         "packagesPath": "C:\\Users\\hnallagoppul\\.nuget\\packages\\",
-        "outputPath": "C:\\sampleApi\\src\\simpeapi\\obj\\",
+        "outputPath": "C:\\SampleApi\\src\\simpeapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
