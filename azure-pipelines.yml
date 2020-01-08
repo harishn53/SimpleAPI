@@ -30,5 +30,5 @@ steps:
    command: publish
    publishWebProjects: false
    projects: 'src/simpeapi/simpeapi.csproj'
-   arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+   arguments: '--configuration $(buildConfiguration) --output $(\\my\share\$(Build.DefinitionName)\$(Build.BuildNumber)\drop)'
    zipAfterPublish: true
